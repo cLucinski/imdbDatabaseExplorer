@@ -18,5 +18,6 @@ Search options:
 
 Next steps:
 Reducing size of main, breaking portions down to smaller functions.
+Move items into folders to clean repo.
 =======
 </pre>

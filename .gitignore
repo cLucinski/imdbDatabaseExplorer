@@ -1,0 +1,7 @@
+*.gz
+*.tsv
+*.o
+a3
+.idea/
+CMakeLists.txt
+cmake-build-debug/
